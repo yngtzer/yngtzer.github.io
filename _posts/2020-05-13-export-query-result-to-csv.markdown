@@ -15,6 +15,7 @@ categories: SQL
 6. `set trimspool on`
 7. `set linesize 32767`
 8. `set underline off`
-9. `spool myOutputCsv.csv`
-10. execute your query here...
-11. `spool off`
+9. `alter session set NLS_TIMESTAMP_FORMAT='DD-MON-YYYY HH24:MI:SS.FF';`
+10. `spool myOutputCsv.csv`
+11. execute your query here...
+12. `spool off`

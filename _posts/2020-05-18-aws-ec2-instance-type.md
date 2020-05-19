@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EC2 & Pricing Model"
+title: "AWS EC2 Instance Type"
 date: 2020-05-18  10:00:00 +0800
 categories: AWS
 ---
