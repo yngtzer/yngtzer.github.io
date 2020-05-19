@@ -1,4 +1,4 @@
-`---
+---
 layout: post
 title: "EC2 & Pricing Model"
 date: 2020-05-18  09:00:00 +0800
